@@ -1,13 +1,13 @@
-#3rd_pds_assigment
+3rd_pds_assigment
 
-Dependencies
+1.Dependencies
 This project is written in CUDA C. In order to compile and run the code a machine with nvida toolkit is requiderd (nvcc, nvprof etc). Instructions on how to install and setup such an enviroment are available on the internet. In order to run CUDA the GPU must also support it.
 
-Make
+2.Make
 GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. This is not strictly required but if you don't have it you must compile and run the project on your own.
 
 
-Compile and run
+3.Compile and run
 
 On your Local computer
 

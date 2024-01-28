@@ -1,4 +1,4 @@
-#3rd_pds_assignment
+#3rd_pds_assigment
 
 Dependencies
 This project is written in CUDA C. In order to compile and run the code a machine with nvida toolkit is requiderd (nvcc, nvprof etc). Instructions on how to install and setup such an enviroment are available on the internet. In order to run CUDA the GPU must also support it.
